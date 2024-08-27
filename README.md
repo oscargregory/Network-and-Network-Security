@@ -47,20 +47,16 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 - <b>**Applying the NIST CSF**</b>
   https://docs.google.com/document/d/1Iab-D2PFYLOT_F4QY9IxggtujJJXbuTSzEYvEVM6UPQ/edit?usp=sharing
 
-<h2>Step-by-step Process:</h2>
--Step 1: Access the incident report analysis template
--Step 2: Summarize the security event
--Step 3: Identify the type of attack and the systems affected
--Step 4: Protect the assets in your organization from being compromised
--Step 5: Detect similar incidents in the future
--Step 6: Respond to future cybersecurity incidents
--Step 7: Recover from the incident
+  <h2>Step-by-step Process:</h2>
+  -Step 1: Access the incident report analysis template
+  -Step 2: Summarize the security event
+  -Step 3: Identify the type of attack and the systems affected
+  -Step 4: Protect the assets in your organization from being compromised
+  -Step 5: Detect similar incidents in the future
+  -Step 6: Respond to future cybersecurity incidents
+  -Step 7: Recover from the incident
+<br />
 
 <h2>Final Incident Report Analysis</h2>
 
--  https://docs.google.com/document/d/1uziRJw-yxcn5nes-qvR2tp1EGqq1h20b2PZv82aofk0/edit?usp=sharing)
-
-<h2>Recommendations Made: </h2>
-
-FILL THIS OUT
-
+-  https://docs.google.com/document/d/1cRQjeiRlKYRqaUBTDVf8NlzXa05p5VfyoH1Ctibq1G8/edit?usp=sharing&resourcekey=0-1oI0tg8BsqdrV6HTjVhBfQ
