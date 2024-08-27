@@ -48,13 +48,13 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
   https://docs.google.com/document/d/1Iab-D2PFYLOT_F4QY9IxggtujJJXbuTSzEYvEVM6UPQ/edit?usp=sharing
 
 <h2>Step-by-step Process:</h2>
-  -Step 1: **Access the incident report analysis template**
+  <h1>-Step 1: **Access the incident report analysis template**
   -Step 2: **Summarize the security event**
   -Step 3: **Identify the type of attack and the systems affected**
   -Step 4: **Protect the assets in your organization from being compromised**
   -Step 5: **Detect similar incidents in the future**
   -Step 6: **Respond to future cybersecurity incidents**
-  -Step 7: **Recover from the incident**
+  -Step 7: **Recover from the incident**</h1>
 
 <h2>Final Incident Report Analysis</h2>
 
