@@ -42,10 +42,10 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 
 <h2>Supporting Material</h2>
 
-- <b>Incident Report Template</b>
-  https://docs.google.com/document/d/1irckNaIK0aTi3im9Ne_3aVIS5p5Gfc0AvG24zS-2KQI/edit?usp=sharing (CHANGE)
-- <b>Applying to NIST CSF</b>
-  https://docs.google.com/document/d/1DhYpb3ZVVz-iJLgWAhv28vVwOCOvcNBYy68GntnyU0Y/edit?usp=sharing&resourcekey=0-kGPIL2QoyqFySXRL1JMWTA (CHANGE)
+- <b>**Incident Report Template**</b>
+  https://docs.google.com/document/d/1B_y0DKDpmmA_ljoH9HFq6AIvC3i6Rm14iWuvKsB-DIU/edit?usp=sharing&resourcekey=0-lMxGSkMUnUw47qoBLptfEQ
+- <b>**Applying the NIST CSF**</b>
+  https://docs.google.com/document/d/1Iab-D2PFYLOT_F4QY9IxggtujJJXbuTSzEYvEVM6UPQ/edit?usp=sharing
 
 <h2>Final Incident Report Analysis</h2>
 
